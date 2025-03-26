@@ -58,9 +58,9 @@ Welcome to my GitHub! I craft **scalable, efficient, and user-centric applicatio
 ---  
 
 ### **🔗 Let’s Connect & Build the Future!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=medium&logoColor=white)](https://yourportfolio.com)  
+[![LinkedIn](James Muthiora)](https://www.linkedin.com/in/james-muthiora-89915a271/)  
+[![Email](muthiorajames39@gmail.com)  
+[![Portfolio]()]()  
 
 *(Replace with your actual social links)*  
 
