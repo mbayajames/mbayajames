@@ -1,9 +1,10 @@
+Here's an updated version of your GitHub profile:
+
+---
+
 # Hi there, I'm Mbaya James! 👋
 
-Welcome to my GitHub profile! I'm a passionate **Software Developer** and **Lecturer** dedicated to building efficient, scalable, and user-friendly applications. I have experience in **Node.js**, **React.js**, and **MongoDB**, with a keen interest in **full-stack development**, **educational technology**, and **automation**.
-
-![image](https://github.com/user-attachments/assets/2afc0c00-5a59-461b-bd02-d0dd040b48ca)
- <!-- Replace with a link to your profile picture -->
+Welcome to my GitHub profile! I'm a passionate **Software Developer** and **Lecturer** dedicated to building efficient, scalable, and user-friendly applications. I have experience in **HTML/CSS**, **JavaScript**, **React.js**, **Node.js**, and I'm skilled in both frontend and backend development using **Firebase**, **Tailwind**, **PHP**, and **Laravel**.
 
 ## 🚀 About Me
 - 🎓 **Software Developer & Lecturer**
@@ -16,9 +17,9 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** and **Lect
 ## 💻 Technologies & Skills
 | Category      | Technologies                             |
 |---------------|-----------------------------------------|
-| **Frontend**  | React.js, HTML, CSS, JavaScript        |
-| **Backend**   | Node.js, Express.js                    |
-| **Database**  | MongoDB, PostgreSQL                     |
+| **Frontend**  | React.js, HTML, CSS, JavaScript, Tailwind |
+| **Backend**   | Node.js, Express.js, PHP, Laravel      |
+| **Database**  | MongoDB, Firebase, PostgreSQL           |
 | **Version Control** | Git, GitHub                      |
 | **Other Tools** | Postman, REST APIs, Docker            |
 
@@ -58,13 +59,13 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** and **Lect
 - Blog: [Your Blog](#) <!-- Replace with link to your blog -->
 
 ## 📊 GitHub Stats
-![Mbaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbayajames&show_icons=true&theme=radical)
+[Mbaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbayajames&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mbayajames&theme=darkhub)
+[GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mbayajames&theme=darkhub)
 
 ## 📈 GitHub Contribution Graph
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mbayajames&theme=react-dark)
+[GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mbayajames&theme=react-dark)
 
 ---
 
