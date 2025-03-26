@@ -2,19 +2,24 @@
 
 Welcome to my GitHub profile! I'm a passionate **Software Developer** and **Lecturer** dedicated to building efficient, scalable, and user-friendly applications. I have experience in **Node.js**, **React.js**, and **MongoDB**, with a keen interest in **full-stack development**, **educational technology**, and **automation**.
 
+![Profile Picture](https://via.placeholder.com/150) <!-- Replace with a link to your profile picture -->
+
 ## 🚀 About Me
 - 🎓 **Software Developer & Lecturer**
 - 💡 Passionate about **technology, teaching, and innovation**
 - 🏗️ Currently working on an **Online Assignment Management System** using **Node.js (backend)** and **React.js (frontend)**
 - 📚 Always eager to **learn new technologies and best practices**
 - 🤝 Open to **collaborations and contributions** on exciting software projects
+- 🌍 **Languages:** English, Swahili
 
 ## 💻 Technologies & Skills
-- **Frontend:** React.js, HTML, CSS, JavaScript
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Version Control:** Git, GitHub
-- **Other Tools:** Postman, REST APIs
+| Category      | Technologies                             |
+|---------------|-----------------------------------------|
+| **Frontend**  | React.js, HTML, CSS, JavaScript        |
+| **Backend**   | Node.js, Express.js                    |
+| **Database**  | MongoDB, PostgreSQL                     |
+| **Version Control** | Git, GitHub                      |
+| **Other Tools** | Postman, REST APIs, Docker            |
 
 ## 🌱 Currently Learning
 - Advanced **backend development** techniques
@@ -26,29 +31,33 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** and **Lect
 - Full-stack applications that **solve real-world problems**
 - **Scalable web applications** that improve productivity
 
+## 🌟 Notable Projects
+- **[Calculator Project]**: A simple calculator application built with HTML, CSS, and JavaScript.
+- **[Carwash Site]**: A web application for managing car wash services.
+- **[Dashboard Apps]**: A React-based dashboard application with enhanced structure.
+- **[Online Assignment Management System]**: A comprehensive platform for managing assignments and submissions.
+
+## 🏆 Certifications
+- [Full Stack Web Development Certificate](#) <!-- Replace with link to your certification -->
+- [JavaScript Algorithms and Data Structures](#) <!-- Replace with link to your certification -->
+
+## 📚 Blog & Articles
+- **[Understanding Node.js](#)**: A deep dive into Node.js and its applications.
+- **[React Best Practices](#)**: Tips and tricks for building efficient React applications.
+- **[Educational Technology Trends](#)**: Insights on the latest trends in EdTech.
+
+## 🤝 Community Involvement
+- Contributor to [Open Source Initiative](#) <!-- Replace with link if applicable -->
+- Participant in local hackathons and coding bootcamps.
+
 ## 📫 Connect With Me
 - GitHub: [mbayajames](https://github.com/mbayajames)
-- LinkedIn: [Your LinkedIn Profile](nkedin.com/in/james-muthiora-89915a271/)
-- Email: [Your Email](muthiorajames39@gmail.com)
-
-## ⚡ Fun Fact
-I believe **technology + education** can shape the future, and I'm always excited to share knowledge and learn from others!
-
----
-
-## 🛠️ Languages and Tools I Use
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- LinkedIn: [James Muthiora](https://www.linkedin.com/in/james-muthiora-89915a271/)
+- Email: [muthiorajames39@gmail.com](mailto:muthiorajames39@gmail.com)
+- Blog: [Your Blog](#) <!-- Replace with link to your blog -->
 
 ## 📊 GitHub Stats
 ![Mbaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbayajames&show_icons=true&theme=radical)
-
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mbayajames&theme=darkhub)
@@ -57,5 +66,5 @@ I believe **technology + education** can shape the future, and I'm always excite
 ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mbayajames&theme=react-dark)
 
 ---
-✨ _Let's build something amazing together!_ 🚀
 
+✨ _Let's build something amazing together!_ 🚀
