@@ -48,6 +48,7 @@ I believe **technology + education** can shape the future, and I'm always excite
 
 ## 📊 GitHub Stats
 ![Mbaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbayajames&show_icons=true&theme=radical)
+https://camo.githubusercontent.com/7d1bb6c3433efd6f2891dc2474327297112eb69971220cf364c679d1f9f26603/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d6b6b6d616e7575267468656d653d6d696e696d616c
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mbayajames&theme=darkhub)
