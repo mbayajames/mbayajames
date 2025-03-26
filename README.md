@@ -2,7 +2,8 @@
 
 Welcome to my GitHub profile! I'm a passionate **Software Developer** and **Lecturer** dedicated to building efficient, scalable, and user-friendly applications. I have experience in **Node.js**, **React.js**, and **MongoDB**, with a keen interest in **full-stack development**, **educational technology**, and **automation**.
 
-![Profile Picture](https://via.placeholder.com/150) <!-- Replace with a link to your profile picture -->
+![image](https://github.com/user-attachments/assets/2afc0c00-5a59-461b-bd02-d0dd040b48ca)
+ <!-- Replace with a link to your profile picture -->
 
 ## 🚀 About Me
 - 🎓 **Software Developer & Lecturer**
