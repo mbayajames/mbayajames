@@ -28,11 +28,32 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** and **Lect
 
 ## 📫 Connect With Me
 - GitHub: [mbayajames](https://github.com/mbayajames)
-- LinkedIn: [Your Account](https://www.linkedin.com/in/james-muthiora-89915a271/)
-- Email: [Your Email](muthiorajames39@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](#)
+- Email: [Your Email](#)
 
 ## ⚡ Fun Fact
 I believe **technology + education** can shape the future, and I'm always excited to share knowledge and learn from others!
+
+---
+
+## 🛠️ Languages and Tools I Use
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+## 📊 GitHub Stats
+![Mbaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbayajames&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mbayajames&theme=darkhub)
+
+## 📈 GitHub Contribution Graph
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mbayajames&theme=react-dark)
 
 ---
 ✨ _Let's build something amazing together!_ 🚀
