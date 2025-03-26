@@ -1,12 +1,7 @@
-Here’s a polished, professional, and visually appealing version of your GitHub profile:
-
----
 
 # **Hello, I'm Mbaya James!** 👋  
 **Full Stack Developer | Lecturer | AI Enthusiast**  
 
-[![Coding Illustration](https://path-to-your-image.com/image.png)](https://path-to-your-image.com/image.png)  
-*(Replace with your actual banner/image link)*  
 
 Welcome to my GitHub! I craft **scalable, efficient, and user-centric applications** with expertise in **Frontend (React, Vue.js, Tailwind)** and **Backend (Node.js, Laravel, PostgreSQL)**. Passionate about **AI, Computer Vision, and Open-Source Collaboration**.  
 
@@ -22,7 +17,7 @@ Welcome to my GitHub! I craft **scalable, efficient, and user-centric applicatio
 ---  
 
 ## **💡 About Me**  
-- 🔭 **Software Engineer Fellow** @ [Headstarter AI](https://headstarter.ai) (Specializing in **Computer Vision**)  
+- 🔭 **Software Developer (Specializing in **Computer Vision**)  
 - 🎓 **Educator:** Teaching & mentoring in full-stack development  
 - 🌱 Currently mastering **AI/ML** and **Mobile Development (React Native)**  
 - 🤝 Open to **collaborations** in **AI Research, Open-Source Projects, and Data Visualization**  
