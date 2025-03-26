@@ -1,71 +1,34 @@
-Here's an updated version of your GitHub profile:
+Sure! Here’s a revised version of your introduction, incorporating elements from both profiles:
 
 ---
 
 # Hi there, I'm Mbaya James! 👋
 
-Welcome to my GitHub profile! I'm a passionate **Software Developer** and **Lecturer** dedicated to building efficient, scalable, and user-friendly applications. I have experience in **HTML/CSS**, **JavaScript**, **React.js**, **Node.js**, and I'm skilled in both frontend and backend development using **Firebase**, **Tailwind**, **PHP**, and **Laravel**.
+Welcome to my GitHub profile! I'm a passionate **Software Developer** and **Lecturer** dedicated to building efficient, scalable, and user-friendly applications. I graduated in **HTML/CSS**, **JavaScript**, **React.js**, **Node.js** (both frontend and backend), and I'm experienced with **Firebase**, **Tailwind**, **PHP**, and **Laravel**. 
 
-## 🚀 About Me
-- 🎓 **Software Developer & Lecturer**
-- 💡 Passionate about **technology, teaching, and innovation**
-- 🏗️ Currently working on an **Online Assignment Management System** using **Node.js (backend)** and **React.js (frontend)**
-- 📚 Always eager to **learn new technologies and best practices**
-- 🤝 Open to **collaborations and contributions** on exciting software projects
-- 🌍 **Languages:** English, Swahili
+## 💫 About Me
+- 🎓 I'm a computer science graduate with hands-on experience in **exploratory data analysis**, **machine learning**, and **computer vision**.
+- 🔭 I'm currently working as a **Software Engineer Fellow** at Headstarter AI, focusing on innovative projects in **Computer Vision**.
+- 💬 Feel free to ask me about **HTML**, **JavaScript**, **CSS**, **React**, **Ruby on Rails**, **MongoDB**, **Vue.js**, **PHP**, **PostgreSQL**, and **Redux**. I'm passionate about data science and visualization.
 
-## 💻 Technologies & Skills
-| Category      | Technologies                             |
-|---------------|-----------------------------------------|
-| **Frontend**  | React.js, HTML, CSS, JavaScript, Tailwind |
-| **Backend**   | Node.js, Express.js, PHP, Laravel      |
-| **Database**  | MongoDB, Firebase, PostgreSQL           |
-| **Version Control** | Git, GitHub                      |
-| **Other Tools** | Postman, REST APIs, Docker            |
+## ⚡ A Few Quick Facts
+- 🧮 I'm currently learning **AI** and **Mobile Development**.
+- 👯 I'm looking to collaborate on **Computer Vision** related research projects.
+- 🤔 I’d love any help with **AI** and **Group Theory**.
 
-## 🌱 Currently Learning
-- Advanced **backend development** techniques
-- **Cloud computing** and **DevOps practices**
-- **Security best practices** for web applications
-
-## 💡 Looking to Collaborate On
-- Open-source projects related to **education technology and automation**
-- Full-stack applications that **solve real-world problems**
-- **Scalable web applications** that improve productivity
-
-## 🌟 Notable Projects
-- **[Calculator Project]**: A simple calculator application built with HTML, CSS, and JavaScript.
-- **[Carwash Site]**: A web application for managing car wash services.
-- **[Dashboard Apps]**: A React-based dashboard application with enhanced structure.
-- **[Online Assignment Management System]**: A comprehensive platform for managing assignments and submissions.
-
-## 🏆 Certifications
-- [Full Stack Web Development Certificate](#) <!-- Replace with link to your certification -->
-- [JavaScript Algorithms and Data Structures](#) <!-- Replace with link to your certification -->
-
-## 📚 Blog & Articles
-- **[Understanding Node.js](#)**: A deep dive into Node.js and its applications.
-- **[React Best Practices](#)**: Tips and tricks for building efficient React applications.
-- **[Educational Technology Trends](#)**: Insights on the latest trends in EdTech.
-
-## 🤝 Community Involvement
-- Contributor to [Open Source Initiative](#) <!-- Replace with link if applicable -->
-- Participant in local hackathons and coding bootcamps.
-
-## 📫 Connect With Me
+## 📫 How to Reach Me
 - GitHub: [mbayajames](https://github.com/mbayajames)
 - LinkedIn: [James Muthiora](https://www.linkedin.com/in/james-muthiora-89915a271/)
-- Email: [muthiorajames39@gmail.com](mailto:muthiorajames39@gmail.com)
-- Blog: [Your Blog](#) <!-- Replace with link to your blog -->
+- Email: [Your Email](muthiorajames39@gmail.com)
+
+## 🛠️ Languages and Tools I Use
+- JavaScript, TypeScript, React, Node.js, Express, MongoDB, PostgreSQL, Python, Git, Docker, and more.
 
 ## 📊 GitHub Stats
 [Mbaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbayajames&show_icons=true&theme=radical)
 
-## 🏆 GitHub Trophies
-[GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mbayajames&theme=darkhub)
-
-## 📈 GitHub Contribution Graph
-[GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mbayajames&theme=react-dark)
+## 🏆 Fun Fact
+I think I'm a smiling machine! 😄
 
 ---
 
