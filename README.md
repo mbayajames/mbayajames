@@ -28,8 +28,8 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** and **Lect
 
 ## 📫 Connect With Me
 - GitHub: [mbayajames](https://github.com/mbayajames)
-- LinkedIn: [Your LinkedIn Profile](#)
-- Email: [Your Email](#)
+- LinkedIn: [Your LinkedIn Profile](nkedin.com/in/james-muthiora-89915a271/)
+- Email: [Your Email](muthiorajames39@gmail.com)
 
 ## ⚡ Fun Fact
 I believe **technology + education** can shape the future, and I'm always excited to share knowledge and learn from others!
