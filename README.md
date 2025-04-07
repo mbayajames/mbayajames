@@ -39,10 +39,10 @@ Welcome to my GitHub! I craft **scalable, efficient, and user-centric applicatio
 
 ## **📊 GitHub Stats**  
 
-[![Mbaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbayajames&show_icons=true&theme=radical&hide_border=true)](https://github.com/mbayajames)  
-*(Replace with your actual GitHub stats link)*  
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mbayajames&layout=compact&theme=radical&hide_border=true)](https://github.com/mbayajames)  
+<div style="display: flex; justify-content: space-between;">
+  <img alt="mbayajames' GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mbayajames&theme=white&hide_border=true" width='48%' />
+  <img alt="mbayajames' GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=mbayajames&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
+</div>
 
 ---  
 
