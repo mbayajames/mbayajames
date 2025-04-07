@@ -55,7 +55,7 @@ Welcome to my GitHub! I craft **scalable, efficient, and user-centric applicatio
 ## **✨ Fun Facts**  
 > *"I code with a smile! 😊 Passion drives my problem-solving."*
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
+
 
 ---  
 
