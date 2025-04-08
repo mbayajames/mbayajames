@@ -1,6 +1,6 @@
 
 # **Hello, I'm Mbaya James!** 👋  
-**Full Stack Developer | Lecturer | AI Enthusiast**  
+**Full Stack Developer | Lecturers | AI Enthusiast**  
 
 
 Welcome to my GitHub! I craft **scalable, efficient, and user-centric applications** with expertise in **Frontend (React, Vue.js, Tailwind)** and **Backend (Node.js, Laravel, PostgreSQL)**. Passionate about **AI, Computer Vision, and Open-Source Collaboration**.  
@@ -46,7 +46,7 @@ Welcome to my GitHub! I craft **scalable, efficient, and user-centric applicatio
 
 ---  
 
-## **🏆 GitHub Achievements**  
+## **🏆 GitHub Achievement**  
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mbayajames&theme=darkhub&margin-w=15&no-bg=true)](https://github.com/mbayajames)  
 
