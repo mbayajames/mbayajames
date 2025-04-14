@@ -25,7 +25,7 @@ Welcome to my GitHub! I craft **scalable, efficient, and user-centric applicatio
 
 ---  
 
-## **🛠 Languages & Tool**  
+## **🛠 Languages & Tools**  
 
 | **Categories**       | **Technologies**                                                                 |
 |--------------------|---------------------------------------------------------------------------------|
