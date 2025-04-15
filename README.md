@@ -52,7 +52,7 @@ Welcome to my GitHub! I craft **scalable, efficient, and user-centric applicatio
 
 ---  
 
-## **✨ Fun Facts**  
+## **✨ Fun Fact**  
 > *"I code with a smile! 😊 Passion drives my problem-solving."*
 
 
