@@ -45,7 +45,7 @@ Welcome to my GitHub! I craft **scalable, efficient, and user-centric applicatio
 
 ---  
 
-## **🏆 GitHub Achievement**  
+## **🏆 GitHub Achievements**  
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mbayajames&theme=darkhub&margin-w=15&no-bg=true)](https://github.com/mbayajames)  
 
