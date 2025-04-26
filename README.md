@@ -32,7 +32,7 @@ Welcome to my GitHub! I craft **scalable, efficient, and user-centric applicatio
 | **Backend**        | Node.js, Express, Laravel                                       |
 | **Mobile**         | React Native                                                                    |
 | **Databases**      | MongoDB, PostgreSQL, Firebase                                                   |
-| **DevOps & Tools** | Docker, Git, Postman, VS Code, Terminal Scripts                                 |
+| **DevOps & Tools** | Docker, Git, Postman, VS Code                              |
 
 ---  
 
