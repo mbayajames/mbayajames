@@ -31,7 +31,7 @@ Welcome to my GitHub! I craft **scalable, efficient, and user-centric applicatio
 | **Frontend**       | React.js, Redux, Tailwind, Sass                                            |
 | **Backend**        | Node.js, Express, Laravel                                       |
 | **Mobile**         | React Native                                                                    |
-| **Databases**      | MongoDB, PostgreSQL, Firebase                                                   |
+| **Databases**      | MongoDB, PostgreSQL, Firebase, Mysql                                                   |
 | **DevOps & Tools** | Docker, Git, Postman, VS Code                              |
 
 ---  
