@@ -35,12 +35,18 @@ Welcome to my GitHub! I craft **scalable, efficient, and user-centric applicatio
 | **DevOps & Tools** | Docker, Git, Postman, VS Code                              |
 
 ---  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mbayajames&theme=minimal&bg_color=ffffff&color=000000&area_color=000000&line=000000&point=000000&hide_border=true)
+## **🏆 GitHub Achievements**  
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mbayajames&theme=darkhub&margin-w=15&no-bg=true)](https://github.com/mbayajames)  
+
+---  
 
 ## **✨ Fun Facts**  
 > *"I code with a smile! 😊 Passion drives my problem-solving."*
 
 
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mbayajames&theme=minimal&bg_color=ffffff&color=000000&area_color=000000&line=000000&point=000000&hide_border=true)
 
 
 ---  
@@ -53,12 +59,6 @@ Welcome to my GitHub! I craft **scalable, efficient, and user-centric applicatio
   <img alt="mbayajames' GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mbayajames&theme=white&hide_border=true" width='48%' />
   <img alt="mbayajames' GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=mbayajames&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
 </div>
-
----  
-
-## **🏆 GitHub Achievements**  
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mbayajames&theme=darkhub&margin-w=15&no-bg=true)](https://github.com/mbayajames)  
 
 ---  
 
