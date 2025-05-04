@@ -35,6 +35,17 @@ Welcome to my GitHub! I craft **scalable, efficient, and user-centric applicatio
 | **DevOps & Tools** | Docker, Git, Postman, VS Code                              |
 
 ---  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mbayajames&theme=minimal&bg_color=ffffff&color=000000&area_color=000000&line=000000&point=000000&hide_border=true)
+
+## **✨ Fun Facts**  
+> *"I code with a smile! 😊 Passion drives my problem-solving."*
+
+
+
+
+---  
+
+
 
 ## **📊 GitHub Stats**  
 
@@ -51,14 +62,6 @@ Welcome to my GitHub! I craft **scalable, efficient, and user-centric applicatio
 
 ---  
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mbayajames&theme=minimal&bg_color=ffffff&color=000000&area_color=000000&line=000000&point=000000&hide_border=true)
-
-## **✨ Fun Facts**  
-> *"I code with a smile! 😊 Passion drives my problem-solving."*
-
-
-
----  
 
 ### **🔗 Let’s Connect & Build the Future!**  
 [![LinkedIn](James Muthiora)](https://www.linkedin.com/in/james-muthiora-89915a271/)  
