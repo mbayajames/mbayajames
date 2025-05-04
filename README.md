@@ -60,12 +60,7 @@ Welcome to my GitHub! I craft **scalable, efficient, and user-centric applicatio
   <img alt="mbayajames' GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=mbayajames&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
 </div>
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=mbayajames&theme=minimal" alt="GitHub Activity"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=mbayajames&layout=compact&theme=default" alt="Wakatime Stats"></td>
-  </tr>
-</table>
+[![Wakatime Stats](https://.../api/wakatime?username=mbayajames&theme=radical)](...)
 
 ---  
 
