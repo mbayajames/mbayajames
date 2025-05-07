@@ -29,7 +29,7 @@ Welcome to my GitHub! I craft **scalable, efficient, and user-centric applicatio
 | **Categories**       | **Technologies**                                                                 |
 |--------------------|---------------------------------------------------------------------------------|
 | **Frontend**       | React.js, Redux, Tailwind, Sass                                            |
-| **Backend**        | Node.js, Express, Laravel                                       |
+| **Backend**        | Node.js, Express, Laravel, Php                                  |
 | **Mobile**         | React Native                                                                    |
 | **Databases**      | MongoDB, PostgreSQL, Firebase, Mysql                                                   |
 | **DevOps & Tools** | Docker, Git, Postman, VS Code                              |
