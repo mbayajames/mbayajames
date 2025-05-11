@@ -60,7 +60,7 @@ Welcome to my GitHub! I craft **scalable, efficient, and user-centric applicatio
   <img alt="mbayajames' GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=mbayajames&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
 </div>
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mbayajames&layout=compact&theme=default)](https://wakatime.com/@mbayajames)
+[![Wakatime Stat](https://github-readme-stats.vercel.app/api/wakatime?username=mbayajames&layout=compact&theme=default)](https://wakatime.com/@mbayajames)
 
 ---  
 
