@@ -7,7 +7,7 @@ Welcome to my GitHub! I craft **scalable, efficient, and user-centric applicatio
 ---  
 
 ## **🚀 Core Expertises**  
-✔ **Frontend:** React, JavaScript, Tailwind, Redux, Bootstrap
+✔ **Frontend:** React, JavaScript, Tailwinds, Redux, Bootstrap
 ✔ **Backend:** Node.js, Express, Laravel, PHP, XAMPP
 ✔ **Databases:** MongoDB, PostgreSQL, Firebase, Mysql
 ✔ **Mobile:** React Native  
