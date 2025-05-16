@@ -2,7 +2,7 @@
 **Full Stack Developer | Lecturers | AI Enthusiast**  
 
 
-Welcome to my GitHub! I craft **scalable, efficient, and user-centric application** with expertise in **Frontend (React, Tailwind)** and **Backend (Node.js, Laravel, PostgreSQL, PHP)**. Passionate about **AI, Computer Vision, and Open-Source Collaboration**.  
+Welcome to my GitHub! I crafts **scalable, efficient, and user-centric application** with expertise in **Frontend (React, Tailwind)** and **Backend (Node.js, Laravel, PostgreSQL, PHP)**. Passionate about **AI, Computer Vision, and Open-Source Collaboration**.  
 
 ---  
 
