@@ -1,4 +1,4 @@
-# **Hello, I'm Mbaya James!** 👋  
+# **Hello, I'm Mbaya James!** 👋 👋 
 **Full Stack Developer | Lecturers | AI Enthusiast**  
 
 
