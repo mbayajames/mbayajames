@@ -1,5 +1,5 @@
 # **Hello, I'm Mbaya James!** 👋 👋 
-**Full Stack Developer | Lecturers | AI Enthusiast**  
+**Full Stack Developer | Lecturer | AI Enthusiast**  
 
 
 Welcome to my GitHub! I crafts **scalable, efficient, and user-centric application** with expertise in **Frontend (React, Tailwind)** and **Backend (Node.js, Laravel, PostgreSQL, PHP)**. Passionate about **AI, Computer Vision, and Open-Source Collaboration**.  
