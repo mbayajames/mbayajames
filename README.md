@@ -16,7 +16,7 @@ Welcome to my GitHub! I crafts **scalable, efficient, and user-centric applicati
 ---  
 
 ## **💡 About Me**  
-- 🔭 **Software Developer (Specializing in **Computer Vision**)  
+- 🔭 **Software Developers (Specializing in **Computer Vision**)  
 - 🎓 **Educators:** Teaching & mentoring in full-stack development  
 - 🌱 Currently mastering **AI/ML** and **Mobile Development (React Native)**  
 - 🤝 Open to **collaboration** in **AI Research, Open-Source Projects, and Data Visualization**  
