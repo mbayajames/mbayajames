@@ -48,7 +48,7 @@
 </p>
 
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & 🔥 GitHub Streak
 
 <p align="center">
   <img 
@@ -57,13 +57,13 @@
   />
 </p>
 
-### 🔥 GitHub Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbayajames&theme=white&hide_border=true" alt="mbayajames GitHub Streak" />
+<p align="center" style="margin-top: 10px;">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mbayajames&theme=white&hide_border=true" 
+    alt="mbayajames GitHub Streak" 
+  />
 </p>
 
----
 
 ### 🔗 Let's Connect
 
