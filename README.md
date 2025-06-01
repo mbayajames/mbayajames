@@ -34,12 +34,14 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mbayajames&show_icons=true&locale=en" alt="mbayajames" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mbayajames&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="mbayajames trophies" />
 </p>
+
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img 
