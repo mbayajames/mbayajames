@@ -42,8 +42,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbayajames&" alt="mbayajames" />
+  <img 
+    src="https://github-readme-stats-mauve-ten.vercel.app/api?username=mbayajames&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" 
+    alt="mbayajames's GitHub stats" 
+  />
 </p>
+
 
 ---
 
