@@ -13,7 +13,7 @@
 - 👯 I’m open to collaborate on **Full Stack Projects and Educational Platforms**  
 - 🧠 I'm sharpening skills in **API Security, Testing, and Cloud Deployment**  
 - 💬 Ask me about **JavaScript, Node.js, React.js, MongoDB, PHP, MySQL**  
-- 📫 How to reach me: **mbayajames.dev@gmail.com**  
+- 📫 How to reach me: **mbayajames.muthiorajames39@gmail.com**  
 - ⚡ Fun fact: I love blending teaching with real-world development challenges!
 
 ---
@@ -69,7 +69,7 @@
 ### 🔗 Let's Connect
 
 <p align="left">
-  <a href="mailto:mbayajames.dev@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:muthiorajames39@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/mbayajames" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <!-- Add other social links here -->
 </p>
