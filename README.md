@@ -1,120 +1,56 @@
-Vee Collection Website
-Overview
-Vee Collection is a single-page React.js website for a premium salon and barbershop offering nail, spa, and barber services. Inspired by zvinailsandspa.com, it features a responsive design with custom CSS, elegant animations, and a pink, black, and white color scheme for a luxurious experience. Includes WhatsApp integration and a demo booking form.
-Features
+<h1 align="center">Hi 👋, I'm James M. Mbaya</h1>
+<h3 align="center">A passionate Software Developer & Lecturer from Kenya</h3>
 
-Responsive Design: Custom CSS with media queries for mobile, tablet, and desktop.
-Sections:
-Home: Hero with call-to-action.
-About: Team profiles and mission.
-Services: Nail, spa, and barber services with pricing.
-Promotions: Special offers.
-Gallery: Image showcase with lightbox, featuring 12 unique nail, spa, and barber images.
-Testimonials: Client reviews.
-Booking: Demo appointment form.
-Contact: Contact details with WhatsApp and map.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mbayajames&label=Profile%20views&color=0e75b6&style=flat" alt="mbayajames" />
+</p>
 
+---
 
-Animations: Fade-in and slide-in effects.
-Color Scheme: Pink (#FF69B4, #FFF0F5), black (#000000), white (#FFFFFF).
-WhatsApp: Contact via +254743652006.
-Typography: "Great Vibes" font for branding.
-Images: Optimized Unsplash images for gallery, team, and map; replace with custom visuals for branding.
-Frontend-Only: Static content; booking form directs to phone/WhatsApp.
+- 🔭 I’m currently working on **an Assignment Management System (MERN Stack)**  
+- 🌱 I’m currently learning **Advanced Backend Concepts, DevOps, and Scalable App Architecture**  
+- 👨‍🏫 I'm a **Lecturer and Mentor**, guiding future developers  
+- 👯 I’m open to collaborate on **Full Stack Projects and Educational Platforms**  
+- 🧠 I'm sharpening skills in **API Security, Testing, and Cloud Deployment**  
+- 💬 Ask me about **JavaScript, Node.js, React.js, MongoDB, PHP, MySQL**  
+- 📫 How to reach me: **mbayajames.dev@gmail.com**  
+- ⚡ Fun fact: I love blending teaching with real-world development challenges!
 
-Project Structure
-vee-collection/
-├── src/
-│   ├── components/
-│   │   ├── Navbar.js       # Navigation with smooth scrolling
-│   │   ├── Hero.js         # Hero section
-│   │   ├── About.js        # About section with team
-│   │   ├── Services.js     # Nail, spa, barber services
-│   │   ├── Promotions.js   # Special offers
-│   │   ├── Gallery.js      # Image gallery with lightbox
-│   │   ├── Testimonials.js # Client testimonials
-│   │   ├── Booking.js      # Demo booking form
-│   │   ├── Contact.js      # Contact info and WhatsApp
-│   │   ├── Footer.js       # Footer with links and socials
-│   ├── data/
-│   │   ├── servicesData.js     # Service data
-│   │   ├── teamData.js         # Team data
-│   │   ├── testimonialsData.js # Testimonial data
-│   │   ├── promotionsData.js   # Promotion data
-│   ├── App.js              # Main app with React Router
-│   ├── index.js            # React entry point
-│   ├── styles.css          # Custom CSS styles
-├── README.md               # This file
-├── package.json            # Dependencies and scripts
+---
 
-Prerequisites
+### 🛠️ Languages and Tools
 
-Node.js (v16+)
-npm or yarn
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</p>
 
-Setup Instructions
+---
 
-Create Project:
-npx create-react-app vee-collection
-cd vee-collection
+### 📊 GitHub Stats
 
-Or with Vite:
-npm create vite@latest vee-collection -- --template react
-cd vee-collection
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mbayajames&show_icons=true&locale=en" alt="mbayajames" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbayajames&" alt="mbayajames" />
+</p>
 
-Install Dependencies:
-npm install react-router-dom
+---
 
+### 🔗 Let's Connect
 
-Set Up Files:
-
-Copy src/ files (App.js, index.js, styles.css, components/, data/) into the project’s src/ directory.
-Place README.md in the root directory.
-Ensure styles.css includes Google Fonts import.
-
-
-Run the App:
-npm start
-
-Or for Vite:
-npm run dev
-
-Visit http://localhost:3000.
-
-Customize:
-
-Images: Replace Unsplash images in teamData.js, Gallery.js, and Contact.js with your own (optimize to <1MB, e.g., use ?w=800 for Unsplash).
-Details: Update contact info in Contact.js and Footer.js.
-Content: Edit servicesData.js, teamData.js, testimonialsData.js, promotionsData.js.
-
-
-
-Customization Options
-
-Backend: Add Node.js/Express, Firebase, or Calendly for booking in Booking.js.
-Animations: Extend styles.css with keyframes or use Framer Motion.
-SEO: Add meta tags in public/index.html.
-Social Media: Update links in Footer.js.
-Branding: Adjust colors or fonts in styles.css.
-
-Technologies
-
-React.js: Component-based frontend.
-React Router: Section navigation.
-Custom CSS: Responsive styling.
-Google Fonts: "Great Vibes" typography.
-Unsplash: Free, optimized images.
-
-Notes
-
-Booking form is a demo; integrate a backend for functionality.
-WhatsApp uses +254743652006; verify or update.
-Gallery images are unique and optimized; test locally to confirm loading.
-Self-host Google Fonts for production.
-If images fail to load, check URLs or network; replace with local assets if needed.
-
-License
-For demonstration; uses Unsplash images under their license. Replace for commercial use.
-
-Contact the developer or repository issues for support.
+<p align="left">
+  <a href="mailto:mbayajames.dev@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/mbayajames" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <!-- Add other social links here -->
+</p>
