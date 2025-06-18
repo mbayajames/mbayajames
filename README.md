@@ -41,7 +41,7 @@
 </p>
 
 
-### 📈 GitHub Contributions Graph
+### 📈 GitHub Contributions Graphs
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mbayajames&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph for mbayajames" />
