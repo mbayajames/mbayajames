@@ -48,7 +48,7 @@
 </p>
 
 
-### 📊 GitHub Stat & 🔥 GitHub Streak
+### 📊 GitHub Stat & 🔥 GitHub Streaks
 
 <p align="center">
   <img 
