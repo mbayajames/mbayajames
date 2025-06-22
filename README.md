@@ -14,7 +14,7 @@
 - 🧠 I'm sharpening skills in **API Security, Testing, and Cloud Deployment**  
 - 💬 Ask me about **JavaScript, Node.js, React.js, MongoDB, PHP, MySQL**  
 - 📫 How to reach me: **mbayajames.muthiorajames39@gmail.com**  
-- ⚡ Fun fact: I love blending teaching with real-world development challenges!
+- ⚡ Fun fact: I love blending teachings with real-world development challenges!
 
 ---
 
