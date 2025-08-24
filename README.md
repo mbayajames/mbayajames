@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm James M. Mbaya</h1>
+<h1 align="center">Hi 👋, I'm James Mbaya Muthiora</h1>
 <h3 align="center">A passionate Software Developer from Kenya</h3>
 
 <p align="center">
