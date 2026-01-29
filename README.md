@@ -8,7 +8,7 @@
 ---
 
 - 🔭 I’m currently working on **an Assignment Management System (MERN Stack)**  
-- 🌱 I’m currently learning **Advanced Backend Concepts, DevOp, and Scalable App Architecture**  
+- 🌱 I’m currently learning **Advanced Backend Concepts, DevOps, and Scalable App Architecture**  
 - 👨‍🏫 I'm a **Lecturer and Mentor**, guiding future developers  
 - 👯 I’m open to collaborate on **Full Stack Projects and Educational Platforms**  
 - 🧠 I'm sharpening skills in **API Security, Testing, and Cloud Deployment**  
