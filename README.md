@@ -58,7 +58,7 @@
     style="margin-right: 10px;"
   />
   <img 
-    src="https://streak-stats.demolab.com/?user=mbayajames&theme=github-light&hide_border=true" 
+    src="https://streak-stats.demolab.com/?user=mbayajames&theme=tokyonight&hide_border=true" 
     alt="mbayajames GitHub Streak" 
     width="45%"
   />
