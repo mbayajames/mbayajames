@@ -335,9 +335,6 @@ const james = {
 
 <div align="center">
 
-<!-- Activity Graph -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mbayajames&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7FF" alt="Coding Activity" />
-
 <!-- Productive Time -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mbayajames&theme=react&utcOffset=3" alt="Productive Time" />
 
