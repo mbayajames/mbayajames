@@ -213,14 +213,31 @@ const james = {
 ## 🏆 Achievements & Trophies
 
 <div align="center">
-  
-<!-- Trophy Display -->
-<img src="https://github-profile-trophy.vercel.app/?username=mbayajames&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="Trophies" width="90%" />
 
-<!-- Achievement Badges -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mbayajames&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" alt="Wakatime Stats" width="47%" />
+<!-- GitHub Trophies -->
+<img 
+  src="https://github-profile-trophy.vercel.app/?username=mbayajames&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=4" 
+  alt="GitHub Trophies" 
+  width="90%" 
+/>
+
+<br/><br/>
+
+<!-- GitHub Stats -->
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=mbayajames&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" 
+  alt="GitHub Stats" 
+  width="47%" 
+/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbayajames&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" 
+  alt="Top Languages" 
+  width="47%" 
+/>
 
 </div>
+
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
