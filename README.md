@@ -456,7 +456,7 @@ If you find my projects helpful or interesting, consider:
 
 ⭐ **Starring my repositories**  
 🔄 **Sharing my work**  
-☕ **Buying me a of coffee**  
+☕ **Buying me a cup of coffee**  
 🤝 **Collaborating on projects**
 
 <a href="https://www.buymeacoffee.com/mbayajames">
