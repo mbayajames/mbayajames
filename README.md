@@ -210,20 +210,6 @@ const james = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 Achievements & Trophies
-
-<div align="center">
-  
-<!-- Trophy Display -->
-<img src="https://github-profile-trophy.vercel.app/?username=mbaja-james&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" width="90%" />
-
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=mbaja-james&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&icon_color=00F7FF" alt="GitHub Stats" width="47%" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbaja-james&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" alt="Top Languages" width="40%" />
-
-</div>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
