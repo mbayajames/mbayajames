@@ -213,31 +213,17 @@ const james = {
 ## 🏆 Achievements & Trophies
 
 <div align="center">
+  
+<!-- Trophy Display -->
+<img src="https://github-profile-trophy.vercel.app/?username=mbaja-james&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" width="90%" />
 
-<!-- GitHub Trophies -->
-<img 
-  src="https://github-profile-trophy.vercel.app/?username=mbayajames&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=4" 
-  alt="GitHub Trophies" 
-  width="90%" 
-/>
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=mbaja-james&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&icon_color=00F7FF" alt="GitHub Stats" width="47%" />
 
-<br/><br/>
-
-<!-- GitHub Stats -->
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=mbayajames&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" 
-  alt="GitHub Stats" 
-  width="47%" 
-/>
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbayajames&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" 
-  alt="Top Languages" 
-  width="47%" 
-/>
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbaja-james&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" alt="Top Languages" width="40%" />
 
 </div>
-
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -522,13 +508,6 @@ If you find my projects helpful or interesting, consider:
 
 <img src="https://readme-jokes.vercel.app/api?theme=react&hideBorder" alt="Jokes Card" />
 
----
-
-### 🌟 Visitor Count
-
-<img src="https://profile-counter.glitch.me/mbayajames/count.svg" alt="Visitor Count" />
-
----
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+✨;Let's+build+something+amazing+together!+🚀;Happy+Coding!+💻;Feel+free+to+reach+out!+📧" alt="Footer Typing" />
 
