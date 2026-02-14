@@ -21,7 +21,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-I'm a Full Stack Developer and Educators based in Nairobi, Kenya, passionate about building scalable web applications and empowering the next generation of developers. With expertise in the MERN stack, I bridge the gap between education and industry by creating real-world solutions and teaching practical programming skills.
+I'm a Full Stack Developer and Educator based in Nairobi, Kenya, passionate about building scalable web applications and empowering the next generation of developers. With expertise in the MERN stack, I bridge the gap between education and industry by creating real-world solutions and teaching practical programming skills.
 
 **Current Focus:** Building an Assignment Management System with real-time features and advanced analytics.
 
