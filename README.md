@@ -31,7 +31,7 @@ I'm a Full Stack Developer and Educator based in Nairobi, Kenya, passionate abou
 - 👨‍🏫 Teach programming concepts and mentor aspiring developers
 - 🚀 Build scalable, user-centric solutions for real-world problems
 - 🌱 Continuously learn and explore new technologies
-- 🤝 Collaborate on open-source and educational projects
+- 🤝 Collaborate on open-source and educational project
 
 ### 💡 Ask Me About
 
