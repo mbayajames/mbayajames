@@ -27,7 +27,7 @@ I'm a Full Stack Developer and Educator based in Nairobi, Kenya, passionate abou
 
 ### 🎯 What I Do
 
-- 💼 Develop full-stack web applications using modern technologies
+- 💼 Develop full-stack web application using modern technologies
 - 👨‍🏫 Teach programming concepts and mentor aspiring developers
 - 🚀 Build scalable, user-centric solutions for real-world problems
 - 🌱 Continuously learn and explore new technologies
