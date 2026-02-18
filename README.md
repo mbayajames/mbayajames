@@ -78,7 +78,7 @@ JavaScript Ecosystems • React.js • Node.js & Express • MongoDB • Teachin
 <tr>
 <td width="50%">
 
-### 🎓 Assignments Management System
+### 🎓 Assignment Management System
 **MERN Stack Application**
 
 A comprehensive platform for managing academic assignments with real-time notifications, role-based access control, file management, and analytics dashboard.
