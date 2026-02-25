@@ -94,7 +94,7 @@ A comprehensive platform for managing academic assignments with real-time notifi
 <td width="50%">
 
 ### 🌐 Portfolio Website
-**React.js & Tailwind CSS**
+**React.js & Tailwind CS**
 
 Modern, responsive personal portfolio showcasing projects, skills, and professional journey with optimized performance and SEO.
 
