@@ -37,7 +37,7 @@ I'm a Full Stack Developer and Educator based in Nairobi, Kenya, passionate abou
 
 ### 💡 Ask Me About
 
-JavaScript Ecosystems • React.js • Node.js & Express • MongoDB • Teaching Programming • Software Architecture • Problem Solving
+JavaScript Ecosystem • React.js • Node.js & Express • MongoDB • Teaching Programming • Software Architecture • Problem Solving
 
 <br clear="right"/>
 
