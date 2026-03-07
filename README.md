@@ -47,7 +47,7 @@ JavaScript Ecosystems • React.js • Node.js & Express • MongoDB • Teachin
 
 <div align="center">
 
-### Frontend Development
+### Frontend Developments
 <p>
 <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,bootstrap" />
 </p>
