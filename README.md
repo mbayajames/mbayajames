@@ -55,7 +55,7 @@ JavaScript Ecosystems • React.js • Node.js & Express • MongoDB • Teachin
 <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
 </p>
 
-### Databases & Tools
+### Databases & Tool
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman" />
 </p>
