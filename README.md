@@ -27,7 +27,7 @@ I'm a Full Stack Developer and Educator based in Nairobi, Kenya, passionate abou
 
 ### 🎯 What I Do
 
-- 💼 Develop full-stack web applications using modern technologies
+- 💼 Develop full-stack web application using modern technologies
 - 👨‍🏫 Teach programming concepts and mentor aspiring developers
 - 🚀 Build scalable, user-centric solutions for real-world problems
 - 🌱 Continuously learn and explore new technologies
@@ -41,7 +41,7 @@ JavaScript Ecosystems • React.js • Node.js & Express • MongoDB • Teachin
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Skill
 
 <div align="center">
 
@@ -55,7 +55,7 @@ JavaScript Ecosystems • React.js • Node.js & Express • MongoDB • Teachin
 <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
 </p>
 
-### Databases & Tools
+### Databases & Tool
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman" />
 </p>
@@ -205,18 +205,13 @@ I'm always excited to collaborate on meaningful projects! Here's what I'm intere
 
 ## 🎯 2026 Goals
 
-<div align="center">
-
-- ✅ Complete 100+ meaningful GitHub contributions  
-  ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=mbayajames&show_icons=false&count_private=true&theme=react)
+- ✅ Complete 100+ meaningful GitHub contributions
 - 🚀 Launch 3 production-ready projects
 - 📚 Mentor 50+ aspiring developers
 - 🏆 Contribute to 10+ open source projects
 - 📝 Publish 20+ technical articles
 - ☁️ Achieve AWS Certification
 - 🐳 Master Docker & Kubernetes
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -239,4 +234,4 @@ I'm always excited to collaborate on meaningful projects! Here's what I'm intere
 </div>
 
 <!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" /> 
