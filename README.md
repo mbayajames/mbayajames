@@ -50,7 +50,7 @@ JavaScript Ecosystems • React.js • Node.js & Express • MongoDB • Teachin
 <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,bootstrap" />
 </p>
 
-### Backend Development
+### Backend Developments
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
 </p>
