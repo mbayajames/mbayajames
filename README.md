@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center">d
 
 <!-- Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=James%20Mbaya%20Muthiora&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Educator%20%7C%20Innovator&descAlignY=51&descAlign=50" />
