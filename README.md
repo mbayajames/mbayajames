@@ -25,7 +25,7 @@ I'm a Full Stack Developer and Educator based in Nairobi, Kenya, passionate abou
 
 **Current Focus:** Building an Assignment Management System with real-time features and advanced analytics.
 
-### 🎯 What I Do
+### 🎯 What I Dos
 
 - 💼 Develop full-stack web application using modern technologies
 - 👨‍🏫 Teach programming concepts and mentor aspiring developers
